@@ -19,6 +19,19 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ---
 ### Heading 3
 
+![Alt text]([https://example.com/image.png](https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png))
+
+
+`function helloWorld() {
+console.log("Hello, world!");
+}`
+
+### My Markdown Task List
+
+- [x] Add headings
+- [x] Add an image
+- [x] Add a code example
+- [ ] Celebrate finishing the course!
 
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
